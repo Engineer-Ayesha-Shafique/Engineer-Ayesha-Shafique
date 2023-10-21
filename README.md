@@ -32,12 +32,12 @@
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Engineer-Ayesha-Shafique&theme=shades-of-purple&border_radius=5.3&mode=weekly" alt="engineer-ayesha-shafique" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Engineer-Ayesha-Shafique&theme=omni&border_radius=5.3&mode=weekly" alt="engineer-ayesha-shafique" /></p>
 
 
 <p align="center">
 <a href="https://github.com/Engineer-Ayesha-Shafique">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Engineer-Ayesha-Shafique&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Engineer-Ayesha-Shafique&layout=compact&langs_count=8&theme=omni"/>
 </a>
 </p>
 	
