@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ayesha Shafique</h1>
 <h3 align="center">Computer Engineering Student</h3>
 <h3 align="center">Leveraging my background in Computer engineering and passion for Artificial Intelligence to drive innovation in Deep Learning alongside paving off toward Full Stack Developer.</h3>
-
-<div> <img src="https://visitor-badge.glitch.me/badge?page_id=${Engineer-Ayesha-Shafique}.${Engineer-Ayesha-Shafique}e&label=Profile%20views&color=0e75b6&style=flat"  /> </div>
-
 <ul>
 		<li>🌱 I’m currently learning <strong>Python, Django, Neural Network</strong></li>
 		<li>💬 Ask me about <strong>Image Processing, Neural Network, Backend development, Problem Solving</strong></li>
@@ -44,12 +41,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Engineer-Ayesha-Shafique&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-<p align="center">
-<a href="https://github.com/Engineer-Ayesha-Shafique">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Engineer-Ayesha-Shafique&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>	
+	
 
 
 
