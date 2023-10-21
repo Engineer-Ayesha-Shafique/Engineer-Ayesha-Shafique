@@ -32,9 +32,7 @@
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engineer-ayesha-shafique&" alt="engineer-ayesha-shafique" /></p>
-
-
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Engineer-Ayesha-Shafique&theme=shades-of-purple&border_radius=5.3&mode=weekly" alt="engineer-ayesha-shafique" /></p>
 
 
 <p align="center">
